@@ -8,7 +8,7 @@ No hay un límite para agregar a la lista.</p>
 - JavaScript  <br>
 
 
-<h3>🚀Como utilizarlo:</h3>
+<h2>🚀Como utilizarlo:</h2>
 <p>
 1. Clona o descarga este repositorio. <br>  
 2. Abre el archivo `index.html` en tu navegador.  <br>
@@ -17,12 +17,12 @@ No hay un límite para agregar a la lista.</p>
 5. Cuando tengas todos los nombres, haz clic en "Sortear amigo" para seleccionar uno al azar.  <br>
 </p>
 
-<h4> 💡 Posibles Mejoras:</h4>
+<h2> 💡 Posibles Mejoras:</h2>
 - Agregar opción para reiniciar el juego.<br>
 - Agregar opción del nombre que va a elegir al amigo secreto.<br>
 - Mostrar un listado de los amigos secretos elegidos.<br>
 
-<h5> 📄 Licencia:</h5>
+<h2> 📄 Licencia:</h2>
 Este proyecto es de uso libre. Puedes modificarlo y adaptarlo y así colaborar con el proyecto.
 
 
