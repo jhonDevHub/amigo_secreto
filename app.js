@@ -42,7 +42,7 @@ function sortearAmigo() {
 
     document.getElementById("resultado").innerHTML=`El amigo sorteado es:<strong> ${amigoSorteado}<strong/>`;
 
-    //con esta línea lograremos que no se repita el mismo nombre sorteado, y una vez sorteado sea quitado de la lista
+   
     amigos.splice(indiceAleatorio,1);
 
     actualizarListaAmigos();
